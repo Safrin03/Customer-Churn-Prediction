@@ -8,3 +8,6 @@ Explored the data by examining its structure and contents. Pre-processed the dat
 
 ## Solution
 My solution achieved the project objectives by effectively predicting whether subscriptions in the test dataset would be continued for another month. To accomplish this, I employed logistic regression as the predictive model. During the evaluation stage, I utilized various metrics such as accuracy, precision, recall, F1 score, and ROC AUC to assess the model's effectiveness. My solution achieved an ROC AUC of 0.7455, accuracy of 82.46%, and provided valuable insights for targeted interventions, ensuring a proactive approach to customer retention.
+
+## Data Source 
+Check out this [link](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset) to find the datasets of this project 
